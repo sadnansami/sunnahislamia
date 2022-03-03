@@ -17,16 +17,21 @@
     "@sveltejs/kit": "next",
     "@typescript-eslint/eslint-plugin": "^5.10.1",
     "@typescript-eslint/parser": "^5.10.1",
+    "autoprefixer": "^10.4.2",
     "eslint": "^7.32.0",
     "eslint-plugin-svelte3": "^3.2.1",
+    "postcss": "^8.4.7",
     "svelte": "^3.44.0",
     "svelte-check": "^2.2.6",
     "svelte-preprocess": "^4.10.1",
+    "tailwindcss": "^3.0.23",
     "tslib": "^2.3.1",
-    "typescript": "~4.5.4"
+    "typescript": "~4.5.5"
   },
   "type": "module",
   "dependencies": {
-    "mongoose": "^6.2.4"
+    "express": "^4.17.3",
+    "mongoose": "^6.2.4",
+    "serverless": "^3.7.1"
   }
 }

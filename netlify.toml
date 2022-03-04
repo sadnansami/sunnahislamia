@@ -2,7 +2,7 @@
     functions = "api"
 
 [functions]
-    external_node_modules = ["express"]
+    .netlify/functions/server/hello
 
 [[redirects]]
     from = "api/:splat"

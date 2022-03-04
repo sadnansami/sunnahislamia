@@ -1,6 +1,9 @@
 [build]
     functions = "api"
 
+[functions]
+    .netlify/functions/server/hello
+
 [[redirects]]
     from = "api/:splat"
     to = ".netlify/functions/server/:splat"

@@ -5,5 +5,5 @@
     external_node_modules = ["express"]
 
 [[redirects]]
-    from = "api/:splat"
-    to = ".netlify/functions/server/:splat"
+    from = "/api/*"
+    to = "/.netlify/functions/server/:splat"

@@ -1,6 +1,9 @@
 [build]
     functions = "api"
 
+[functions]
+    external_node_modules = ["express"]
+
 [[redirects]]
     from = "api/:splat"
     to = ".netlify/functions/server/:splat"

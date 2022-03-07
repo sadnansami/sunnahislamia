@@ -5,18 +5,18 @@
 <main>
 	<div class="relative h-screen w-screen bg-primary">
 		<div class="h-fit w-full">
-			<div class="flex flex-row justify-between py-3">
+			<div class="flex flex-row justify-between py-5">
 				<div class="invisible"></div>
-				<div class="text-secondary text-3xl text-center leading-[1.6rem]">SUNNAH<br><span class="font-calligraphy tracking-[0.30rem] text-center">Islamia</span></div>
+				<div class="text-secondary text-4xl text-center leading-[1.8rem]">SUNNAH<br><span class="font-calligraphy tracking-[0.4rem] text-center">Islamia</span></div>
 				<div>H</div>
 			</div>
 			<div class="h-12 flex flex-row justify-around items-center mx-72">
-				<button class="text-xl text-neutral-500 transition-all duration-300 hover:text-secondary">MEN</button>
-				<button class="text-xl text-neutral-500 transition-all duration-300 hover:text-secondary">WOMEN</button>
-				<button class="text-xl text-neutral-500 transition-all duration-300 hover:text-secondary">CHILDREN</button>
-				<button class="text-xl text-neutral-500 transition-all duration-300 hover:text-secondary">WORSHIP</button>
-				<button class="text-xl text-neutral-500 transition-all duration-300 hover:text-secondary">PERFUME</button>
-				<button class="text-xl text-neutral-500 transition-all duration-300 hover:text-secondary">HOME</button>
+				<button class="text-2xl text-neutral-500 transition-all duration-300 hover:text-secondary border-b-[3px] border-primary hover:border-b-[3px] hover:border-secondary py-2 px-4">Men</button>
+				<button class="text-2xl text-neutral-500 transition-all duration-300 hover:text-secondary border-b-[3px] border-primary hover:border-b-[3px] hover:border-secondary py-2 px-4">Women</button>
+				<button class="text-2xl text-neutral-500 transition-all duration-300 hover:text-secondary border-b-[3px] border-primary hover:border-b-[3px] hover:border-secondary py-2 px-4">Children</button>
+				<button class="text-2xl text-neutral-500 transition-all duration-300 hover:text-secondary border-b-[3px] border-primary hover:border-b-[3px] hover:border-secondary py-2 px-4">Worship</button>
+				<button class="text-2xl text-neutral-500 transition-all duration-300 hover:text-secondary border-b-[3px] border-primary hover:border-b-[3px] hover:border-secondary py-2 px-4">Perfume</button>
+				<button class="text-2xl text-neutral-500 transition-all duration-300 hover:text-secondary border-b-[3px] border-primary hover:border-b-[3px] hover:border-secondary py-2 px-4">Home</button>
 			</div>
 		</div>
 		<span class="absolute top-1/2 -translate-y-1/2 text-8xl leading-[1.2] text-secondary">

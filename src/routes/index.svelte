@@ -11,12 +11,12 @@
 				<div>H</div>
 			</div>
 			<div class="h-12 flex flex-row justify-around items-center mx-72">
-				<div class="text-xl text-neutral-500">MEN</div>
-				<div class="text-xl text-neutral-500">WOMEN</div>
-				<div class="text-xl text-neutral-500">CHILDREN</div>
-				<div class="text-xl text-neutral-500">WORSHIP</div>
-				<div class="text-xl text-neutral-500">PERFUME</div>
-				<div class="text-xl text-neutral-500">HOME</div>
+				<button class="text-xl text-neutral-500 transition-all duration-300 hover:text-secondary">MEN</button>
+				<button class="text-xl text-neutral-500 transition-all duration-300 hover:text-secondary">WOMEN</button>
+				<button class="text-xl text-neutral-500 transition-all duration-300 hover:text-secondary">CHILDREN</button>
+				<button class="text-xl text-neutral-500 transition-all duration-300 hover:text-secondary">WORSHIP</button>
+				<button class="text-xl text-neutral-500 transition-all duration-300 hover:text-secondary">PERFUME</button>
+				<button class="text-xl text-neutral-500 transition-all duration-300 hover:text-secondary">HOME</button>
 			</div>
 		</div>
 		<span class="absolute top-1/2 -translate-y-1/2 text-8xl leading-[1.2] text-secondary">
@@ -26,7 +26,7 @@
 				JUBBAHS
 			</div>
 		</span>
-		<img src="./images/heroImage.jpg" alt="Hero" class="z-10 absolute right-12 top-1/2 -translate-y-1/2 border-[6px] border-secondary h-[26rem] w-[26rem] shadow-xl shadow-black/25">
-		<div class="absolute right-28 top-1/2 -translate-y-1/3 h-[26rem] w-[26rem] bg-secondary shadow-xl shadow-secondary/25"></div>
+		<img src="./images/heroImage.jpg" alt="Hero" class="z-10 absolute right-24 top-1/2 -translate-y-1/2 border-[6px] border-secondary h-[26rem] w-[26rem] shadow-xl shadow-black/25">
+		<div class="absolute right-40 top-1/2 -translate-y-1/3 h-[26rem] w-[26rem] bg-secondary shadow-xl shadow-secondary/25"></div>
 	</div>
 </main>

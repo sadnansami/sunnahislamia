@@ -26,7 +26,6 @@
 				JUBBAHS
 			</div>
 		</span>
-		<span class="hidden lg:block">hello</span>
 		<img src="./images/heroImage.jpg" alt="Hero" class="z-10 absolute right-12 top-1/2 -translate-y-1/2 border-[6px] border-secondary h-[26rem] w-[26rem] shadow-xl shadow-black/25">
 		<div class="absolute right-28 top-1/2 -translate-y-1/3 h-[26rem] w-[26rem] bg-secondary shadow-xl shadow-secondary/25"></div>
 	</div>
